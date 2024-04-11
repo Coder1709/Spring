@@ -1,0 +1,33 @@
+
+c
+java:S1192"MDefine a constant instead of duplicating this literal "Profession: " 3 times.(Ù½Î¼
+e
+java:S1192"ODefine a constant instead of duplicating this literal "Company Name: " 3 times.(€âÒ
+k
+java:S1192"PDefine a constant instead of duplicating this literal "Customer Name: " 3 times.(Ôª°šùÿÿÿÿ
+g
+java:S1192"QDefine a constant instead of duplicating this literal "Monthly Income: " 3 times.(ƒ’Ã¾
+i
+java:S1192"NDefine a constant instead of duplicating this literal "Customer ID: " 3 times.(¤Èúÿÿÿÿ
+i
+java:S1192"NDefine a constant instead of duplicating this literal "Designation: " 3 times.(‹ô‚¤ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¤Èúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ôª°šùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ƒ’Ã¾
+@	java:S106"+Replace this use of System.out by a logger.(Ù½Î¼
+E	java:S106"+Replace this use of System.out by a logger.(‹ô‚¤ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(€âÒ
+E	java:S106 "+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(Ğ©ÙÂùÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(÷äñòşÿÿÿÿ
+@	java:S106%"+Replace this use of System.out by a logger.(‡½Š
+E	java:S106&"+Replace this use of System.out by a logger.(…¨½±ùÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.(îÖÜ©ÿÿÿÿÿ
+@	java:S106("+Replace this use of System.out by a logger.(åö«×
+E	java:S106."+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(ı´åÛ
+E	java:S1060"+Replace this use of System.out by a logger.(°£üÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(¦ñ³ò
+E	java:S1062"+Replace this use of System.out by a logger.(øÇÂãıÿÿÿÿ
+E	java:S1063"+Replace this use of System.out by a logger.(„·£»ûÿÿÿÿ
+E	java:S1064"+Replace this use of System.out by a logger.(ò·îúÿÿÿÿ
